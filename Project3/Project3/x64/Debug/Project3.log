@@ -1,0 +1,9 @@
+﻿  Main.cpp
+C:\Users\asus\OneDrive\Рабочий стол\Project3\Project3\MyForm1.h(139,27): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+  (компиляция исходного файла "Main.cpp")
+  
+C:\Users\asus\OneDrive\Рабочий стол\Project3\Project3\Main.cpp(7,6): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm3.cpp
+  Создание кода...
+  Class.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project3.vcxproj -> C:\Users\asus\OneDrive\Рабочий стол\Project3\x64\Debug\Project3.exe

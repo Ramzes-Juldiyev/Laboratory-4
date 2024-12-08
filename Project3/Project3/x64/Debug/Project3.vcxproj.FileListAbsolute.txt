@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Project3\Project3\x64\Debug\Project3.vcxproj.AssemblyReference.cache
+C:\Users\user\source\repos\Project3\Project3\x64\Debug\Project3.MyForm.resources
+C:\Users\user\source\repos\Project3\Project3\x64\Debug\Project3.MyForm1.resources
+C:\Users\user\source\repos\Project3\Project3\x64\Debug\Project3.MyForm2.resources
+C:\Users\user\source\repos\Project3\Project3\x64\Debug\Project3.vcxproj.GenerateResource.cache
+C:\Users\user\source\repos\Project3\Project3\x64\Debug\Project3.MyForm3.resources
+C:\Users\user\source\repos\Project3\Project3\x64\Debug\Project3.MyForm4.resources
+C:\Users\asus\OneDrive\Рабочий стол\Project3\Project3\x64\Debug\Project3.vcxproj.AssemblyReference.cache
+C:\Users\asus\OneDrive\Рабочий стол\Project3\Project3\x64\Debug\Project3.MyForm.resources
+C:\Users\asus\OneDrive\Рабочий стол\Project3\Project3\x64\Debug\Project3.MyForm1.resources
+C:\Users\asus\OneDrive\Рабочий стол\Project3\Project3\x64\Debug\Project3.MyForm2.resources
+C:\Users\asus\OneDrive\Рабочий стол\Project3\Project3\x64\Debug\Project3.MyForm3.resources
+C:\Users\asus\OneDrive\Рабочий стол\Project3\Project3\x64\Debug\Project3.MyForm4.resources
+C:\Users\asus\OneDrive\Рабочий стол\Project3\Project3\x64\Debug\Project3.vcxproj.GenerateResource.cache
